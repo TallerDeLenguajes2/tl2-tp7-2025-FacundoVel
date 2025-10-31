@@ -11,6 +11,7 @@ public class PresupuestoDetalle
         this.producto = producto;
         this.cantidad = cantidad;
     }
+    public PresupuestoDetalle() { }
     
     public double Subtotal()
     {
